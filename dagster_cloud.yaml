@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    module_name: tutorial.definitions
+  location_name: dagster_starting
